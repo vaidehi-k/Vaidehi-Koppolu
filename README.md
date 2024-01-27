@@ -1,4 +1,4 @@
-[![MasterHead](https://datasemantics.co/wp-content/uploads/2023/09/pngtree-web-banner-3d-rendered-ui-for-seo-data-analytics-and-future-picture-image_3704909.png))](https://rishavchanda.io)
+![MasterHead](https://datasemantics.co/wp-content/uploads/2023/09/pngtree-web-banner-3d-rendered-ui-for-seo-data-analytics-and-future-picture-image_3704909.png)
 <h1 align="center">Hi 👋, I'm Vaidehi Koppolu</h1>
 <h3 align="center">Passionate about transforming raw data into meaningful stories to guide strategic business solutions.</h3>
 <p align="left">
